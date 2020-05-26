@@ -1,0 +1,9 @@
+[submodule "themes/hargo"]
+	path = themes/hargo
+	url = https://github.com/themefisher/hargo.git
+[submodule "themes/parsa-hugo"]
+	path = themes/parsa-hugo
+	url = https://github.com/themefisher/parsa-hugo.git
+[submodule "themes/hugo-sugoi"]
+	path = themes/hugo-sugoi
+	url = https://github.com/aanupam23/hugo-sugoi.git
